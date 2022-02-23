@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "6984",
+      "uri": "guide/reference/6984.yaml"
+    },
+    {
+      "type": "item",
+      "title": "faker",
+      "uri": "guide/reference/faker.yaml"
+    },
+    {
+      "type": "item",
+      "title": "what in the",
+      "uri": "guide/reference/what-in-the.yaml"
+    },
+    {
+      "type": "divider",
+      "title": "Schemas"
+    },
+    {
+      "type": "item",
+      "title": "model",
+      "uri": "model.yaml"
+    }
+  ]
+}
